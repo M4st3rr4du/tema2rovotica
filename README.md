@@ -173,14 +173,16 @@ At the end of each round, the terminal will display how many words were spelled 
 
 #### Photo Gallery
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; max-width: 450px;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(2).jpg" alt="Image 1" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(3).jpg" alt="Image 2" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(4).jpg" alt="Image 3" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(5).jpg" alt="Image 4" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(6).jpg" alt="Image 5" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(7).jpg" alt="Image 6" width="250" height="250" style="object-fit: cover;">
+<div 
+  <img src="WhatsApp Image 2024-11-07 at 15.25.57_02f30158.jpg" alt="Image 1" width="250" height="250" style="object-fit: cover;">
+  <img src="WhatsApp Image 2024-11-07 at 15.25.57_14a9db9a.jpg" alt="Image 1" width="250" height="250" style="object-fit: cover;">
+  <img src="WhatsApp Image 2024-11-07 at 15.25.58_43128f41.jpg" alt="Image 2" width="250" height="250" style="object-fit: cover;">
+  <img src="WhatsApp Image 2024-11-07 at 15.25.58_9f0cba32.jpg" alt="Image 3" width="250" height="250" style="object-fit: cover;">
+  <img src="WhatsApp Image 2024-11-07 at 15.25.59_4bac1c43.jpg" alt="Image 4" width="250" height="250" style="object-fit: cover;">
+  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(6).jpg" alt="Image 5" width="250" height="250" style="object-fit: cover;">
+  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(7).jpg" alt="Image 6" width="250" height="250" style="object-fit: cover;">
 </div>
+
 
 </br>
 </br>
