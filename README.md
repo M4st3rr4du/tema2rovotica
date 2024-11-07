@@ -165,7 +165,7 @@ At the end of each round, the terminal will display how many words were spelled 
 [Virtual Simulation](https://wokwi.com/projects/413755217734885377)
 </br>
 
-[Code](https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/code/PROJECT%202/src/main.cpp)
+[Code](https://github.com/M4st3rr4du/tema2rovotica/blob/main/code/tema%202/src/main.cpp)
 </br>
 
 [Video of the physical setup](https://imgur.com/gallery/introduction-to-robotics-project-2-video-aTbcrqy)
