@@ -1,17 +1,12 @@
+# Radu Cujbescu Stefan
+
+<p>Hi! I`m a 21-year-old university student. I am from Romania.I am passionate about computers and i want to make a career out of this. </p>
+
+
 <h1 align="center" style="font-size:20">
 Introduction to Robotics Course
 </h1>
 
-<p align="center">
-Everything related to the course.
-</p>
-
-<p align="center">
-  :microscope: <a href="#about">About</a>&#160;
-  :pencil: <a href="#content">Content</a>&#160;
-</p>
-
-## About
 
 #### Course Objectives:
 1. Development of POC (Proof of Concept) and Final Product Development Skills
@@ -33,15 +28,9 @@ Laboratory tutor: [Radu Ioan Nedelcu](https://github.com/Pepi100)
 <summary>TASK</summary> 
  
   
-<img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(1).jpg" align="right" alt="Diagram" width="400">
+<img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/diagrama%20robo.png" alt="Diagram" width="400">
 
-#### Descriere
 
-În această temă trebuie să simulați o stație de încărcare pentru un vehicul electric, folosind mai multe LED-uri și butoane. În cadrul acestui task trebuie să țineți cont de stările butonului și să folosiți debouncing, dar și să coordonați toate componentele ca într-un scenariu din viața reală.
-
-</br>
-</br>
-</br>
 
 #### Components Used
 
@@ -74,24 +63,24 @@ Long pressing the stop button will forcibly stop charging and reset the station 
 
 </br>
 
-[Virtual Simulation](https://wokwi.com/projects/413755024948932609)
+[Virtual Simulation](https://wokwi.com/projects/412621201971152897)
 </br>
 
-[Code](https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/code/PROJECT%201/src/main.cpp)
+[Code](https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/src/main.c)
 </br>
 
-[Video of the physical setup](https://imgur.com/VyJZZNH)
+[Video of the physical setup](https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/clip%20rotobica.mp4)
 </br>
 
 #### Photo Gallery
 
-<div 
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(2).jpg" alt="Image 1" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(3).jpg" alt="Image 2" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(4).jpg" alt="Image 3" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(5).jpg" alt="Image 4" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(6).jpg" alt="Image 5" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(7).jpg" alt="Image 6" width="250" height="250" style="object-fit: cover;">
+<div align="center">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.35.20_19aff104.jpg " alt="Image 6" width="300">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.29.30_5686032f.jpg" alt="Image 6" width="300">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.29.31_781837cb.jpg" alt="Image 6" width="300">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.29.34_3a834cea.jpg" alt="Image 6" width="300">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.35.20_d8671222.jpg" alt="Image 5" width="300">
+  <img src="https://github.com/M4st3rr4du/Tema1Robotica/blob/main/Robotics/poza%20robotics/WhatsApp%20Image%202024-10-24%20at%2016.35.20_87a94a3c.jpg" alt="Image 6" width="300">  
 </div>
 
 </br>
@@ -99,10 +88,13 @@ Long pressing the stop button will forcibly stop charging and reset the station 
 </details>
 
 
-
-### PROJECT 2: ⁠TypeRacer Game
+### PROJECT 2: Electric vehicle charging system
 <details>
 <summary>TASK</summary> 
+
+
+
+
  
   
 <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%202/images/project%202%20(1).jpg" align="right" alt="Diagram" width="400">
