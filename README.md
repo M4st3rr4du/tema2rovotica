@@ -91,7 +91,7 @@ Long pressing the stop button will forcibly stop charging and reset the station 
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(4).jpg" alt="Image 3" width="250" height="250" style="object-fit: cover;">
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(5).jpg" alt="Image 4" width="250" height="250" style="object-fit: cover;">
   <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(6).jpg" alt="Image 5" width="250" height="250" style="object-fit: cover;">
-  <img src="https://github.com/calinfrunzeanu/Introduction-to-Robotics/blob/main/folder/project%201/images/project%201%20(7).jpg" alt="Image 6" width="250" height="250" style="object-fit: cover;">
+  <img src="https://github.com/M4st3rr4du/tema2rovotica/blob/main/tema%202%20rob/WhatsApp%20Image%202024-11-07%20at%2015.25.57_02f30158.jpg" width="250" height="250" style="object-fit: cover;">
 </div>
 
 </br>
